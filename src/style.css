@@ -1,0 +1,14 @@
+body {
+  background: #fbfbff;
+}
+
+.modal-content {
+  background: #fdffff;
+}
+
+#user-modal-avatar img {
+  object-fit: cover;
+  border-radius: 10%;
+  min-height: 100%;
+  width: auto;
+}
